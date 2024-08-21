@@ -1,0 +1,61 @@
+<html lang="pt-br">
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap" rel="stylesheet">
+    <title>driftflix</title>
+
+</head>
+
+
+
+
+<body>
+
+
+    <header>DRIFTFLIX</header>
+
+    <section>
+        <div>
+            <h1>melhores momentos do drift, rally </h1>
+            <p>drift</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QIRNNBqo8fA?si=dC112S1wbBIx9Qdd"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lYhwMFQ-KKY?si=KeaLVIbJEm5Ryd_R"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wwVWasjzCX8?si=ZXLMhl1nHJQoDoaW"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/KRWw9m8qTOg?si=cGCGwJDK3CoSa6mi"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/yFGDDVc3aho?si=fFUm7OcU1NNq98N9"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/dZJbLUySS4s?si=OxO7mSAQE4ky9FRf"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+</body>
+
+</html>

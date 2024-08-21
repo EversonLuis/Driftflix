@@ -1,0 +1,44 @@
+body{
+    color:white ;
+    background:black;
+    margin:0px
+    .grey-qo-regular {
+        font-family: "Grey Qo", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+header{
+    border-bottom: solid 2px hotpink;
+}
+
+img{
+    height: 200px
+}
+
+    .categoria-videos{
+        display:flex;
+        overflow-x: auto;
+        gep: 15
+    }
+
+.categoria-videos img {
+opacity: 0.5;
+height: 200px;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 2px solid purple
+}
+
+.categoria h2 {
+color: white
+}
+
+
+
+
+
